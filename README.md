@@ -8,3 +8,9 @@ You are welcome to Download, learn and play!
 Hopefully we will see your contributions shortly! :)
 
 Mike
+
+
+When you make a Commit please add to this commit list and use the commit changes box to add a brief description!
+
+## Commit List
+* DR01 Readme
